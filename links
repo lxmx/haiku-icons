@@ -250,6 +250,7 @@ actions go-up-symbolic go-up
 actions go-previous-symbolic go-previous
 actions go-next-symbolic go-next
 actions go-down-search go-down
+actions go-down-symbolic go-down
 actions go-first-view go-first
 actions go-first-view-page go-first
 actions go-home-large go-home
