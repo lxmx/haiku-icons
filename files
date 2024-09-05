@@ -279,6 +279,7 @@ bookmarks-organize actions
 bordertool actions
 bovo apps
 brasero apps
+brave-browser apps
 brightness-high actions
 brightness-low actions
 browser-download actions
@@ -1017,6 +1018,7 @@ image-x-psdimage-x-psd mimetypes
 image-x-tga mimetypes
 image-x-vnd.trolltech.qpicture mimetypes
 image-x-xcf mimetypes
+info.bibletime.BibleTime apps
 inkscape apps
 input-dialpad devices
 input-gamepad devices
@@ -1549,6 +1551,7 @@ qelectrotech apps
 qmmp apps
 qmplay apps
 qpdfview apps
+qstardict apps
 qtcreator apps
 quassel apps
 question actions

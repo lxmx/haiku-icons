@@ -28,13 +28,13 @@ actions appointment appointment-new
 actions approved games-achievements
 actions archive-insert-directory folder-new
 actions arrow edit-select
-actions arrow-down ggo-down
+actions arrow-down go-down
 actions arrow-down-double go-down-skip
-actions arrow-left ggo-previous
+actions arrow-left go-previous
 actions arrow-left-double go-previous-skip
-actions arrow-right ggo-next
+actions arrow-right go-next
 actions arrow-right-double go-next-skip
-actions arrow-up ggo-up
+actions arrow-up go-up
 actions arrow-up-double go-up-skip
 actions artistictext-tool format-text-italic
 actions auto-scale-all zoom-fit-best
@@ -916,6 +916,7 @@ actions zoom-selection zoom-fit-best
 apps FBReader accessories-dictionary
 apps xournal alacarte
 apps fontmatrix gnome-font-viewer
+apps arqiver file-roller
 apps atril ../actions/acrobat
 apps Thunar system-file-manager
 apps access preferences-desktop-accessibility
@@ -973,7 +974,7 @@ apps office-calendar evolution-calendar
 apps office-date evolution-calendar
 apps openterm utilities-terminal
 apps org.inkscape.Inkscape inkscape
-apps org.meld.Meld kdiff3
+apps org.gnome.Meld kdiff3
 apps org.nomacs.ImageLounge nomacs
 apps org.xfce.orage calendar
 apps org.xfce.terminal utilities-terminal
