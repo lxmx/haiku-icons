@@ -20,7 +20,7 @@ All the icons are in the SVG format as in Haiku OS:
 * Haiku and Depot originals are in the `svg/` directory.
 * Extra icons are in the `svg-extra/<source>` directory, symlinked back into `svg/`.
 
-The Makefile, the `build` script and other data files are used to build the icon theme directory 'Haiku/'. They convert the svg files into png (when building a fixed size icon set), copy the files (according to the `files` file) and create the symbolic links for duplicate icons (the `links` file).
+The `Makefile`, the `build` script and other data files are used to build the icon theme directory `Haiku/`. They convert the svg files into png (when building a fixed size icon set), copy the files (according to the `files` file) and create the symbolic links for duplicate icons (the `links` file). Inkscape is used for conversion, so make sure you have it installed.
 
 To build the theme for a scalable size icon set, run the following command:
 
@@ -46,4 +46,5 @@ To install, copy the created directory `Haiku` into the icon theme directory.
 ## See also
 
 * [Retrosmart icon theme](https://github.com/mdomlop/retrosmart-icon-theme/) by mdomlop - a Haiku-inspired spinoff with different contrast and brightness aesthetics
+* This theme at [gnome-look.org](https://www.gnome-look.org/s/Gnome/p/2087825)
 
