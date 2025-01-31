@@ -508,6 +508,8 @@ actions mathmode insert-math-expression
 actions measure tool-measure
 actions media-album-cover media-album-cover-manager-amarok
 actions media-album-repeat-amarok media-repeat-album-amarok
+actions media-playback-paused media-playback-pause
+actions media-playback-playing media-playback-start
 actions media-playlist-repeat-song media-repeat-single
 actions media-repeat-all media-playlist-repeat
 actions media-repeat-track-amarok media-repeat-single
@@ -979,6 +981,7 @@ apps org.nomacs.ImageLounge nomacs
 apps org.xfce.orage calendar
 apps org.xfce.terminal utilities-terminal
 apps plan evolution-calendar
+apps preferences-system systemsettings
 apps preferences-wallpaper preferences-desktop-wallpaper
 apps qtfm system-file-manager
 apps redhat-filemanager system-file-manager
@@ -991,6 +994,7 @@ apps system-config-users system-users
 apps terminal utilities-terminal
 apps text-editor accessories-text-editor
 apps update-manager system-software-update
+apps vivaldi web-browser
 apps volume-knob multimedia-volume-control
 apps wallpaper preferences-desktop-wallpaper
 apps xarchiver file-roller
