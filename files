@@ -387,6 +387,7 @@ dialog-cancel actions
 dialog-error status
 dialog-information status
 dialog-input-devices actions
+dialog-layers actions
 dialog-messages actions
 dialog-ok-apply actions
 dialog-password actions
@@ -559,6 +560,7 @@ emblem-downloads emblems
 emblem-favorite emblems
 emblem-fun emblems
 emblem-generic emblems
+emblem-haiku emblems
 emblem-images emblems
 emblem-important emblems
 emblem-mail emblems
@@ -854,6 +856,7 @@ format-text-underline actions
 format-text-underline-squiggle actions
 format-text-uppercase actions
 formula actions
+fr.handbrake.ghb apps
 games-achievements actions
 games-config-board actions
 games-config-tiles actions
@@ -940,6 +943,7 @@ go-up-skip actions
 granatier apps
 gslapt apps
 gtk-convert actions
+gtk-dialog-authentication status
 gtk-directory places
 gtk-edit actions
 gtk-index actions
@@ -1220,6 +1224,13 @@ labplot-zoom-select-x actions
 labplot-zoom-select-y actions
 ladybird apps
 languages actions
+layer-bottom actions
+layer-delete actions
+layer-duplicate actions
+layer-new actions
+layer-next actions
+layer-previous actions
+layer-top actions
 layer-visible-off actions
 layer-visible-on actions
 lensautofix actions
@@ -1358,6 +1369,7 @@ mode5 actions
 modem devices
 motion_path_animations actions
 move actions
+mtpaint apps
 multimedia-player devices
 multimedia-player-ipod-mini-blue devices
 multimedia-volume-control apps
@@ -1494,6 +1506,8 @@ phone devices
 pidgin apps
 plan apps
 planwork apps
+player-volume-muted actions
+player-volume actions
 player-time actions
 playrate_minus actions
 playrate_plus actions
@@ -1599,6 +1613,8 @@ security-medium status
 segment-curve actions
 segment-line actions
 select-rectangular actions
+selection-move-to-layer-above actions
+selection-move-to-layer-below actions
 send_signal actions
 set-language actions
 set_hide_time actions
@@ -2065,6 +2081,7 @@ weather-showers-scattered status
 weather-snow status
 weather-storm status
 web-browser apps
+web-browser-legacy apps
 web-watermark actions
 whitebalance actions
 widget-alternatives actions

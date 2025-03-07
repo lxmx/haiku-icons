@@ -116,10 +116,10 @@ actions donate help-donate
 actions down go-down
 actions download edit-download
 actions download-amarok edit-download
-actions draw-arrow-back ggo-previous
-actions draw-arrow-down ggo-down
-actions draw-arrow-forward ggo-next
-actions draw-arrow-up ggo-up
+actions draw-arrow-back go-previous
+actions draw-arrow-down go-down
+actions draw-arrow-forward go-next
+actions draw-arrow-up go-up
 actions dvipdf acrobat
 actions dvipng view-preview
 actions dvips document-print
@@ -474,6 +474,9 @@ actions labplot-zoom-select zoom-fit-best
 actions language-chooser amarok_change_language
 actions latex texlion
 actions latex-config labplot-TeX-logo
+actions layer-lower layer-next
+actions layer-raise layer-previous
+actions layer-rename document-edit
 actions leftjust format-justify-left
 actions libpeas-plugin plugins
 actions lighttableadd list-add
@@ -1661,9 +1664,10 @@ status gnome-netstatus-rx network-receive
 status gnome-netstatus-tx network-transmit
 status gnome-netstatus-txrx network-transmit-receive
 status gnome-stock-trash-full user-trash-full
-status gtk-dialog-authentication dialog-password
 status gtk-dialog-error dialog-error
 status gtk-dialog-info dialog-information
+status gtk-dialog-question-ltr dialog-question 
+status gtk-dialog-question-rtl dialog-question
 status gtk-dialog-question dialog-question
 status gtk-dialog-warning dialog-warning
 status gtk-missing-image image-missing
