@@ -11,6 +11,7 @@ ${BUILDDIR}/index.theme:
 	@echo "[Icon Theme]" > $@
 	@echo "Name=Haiku" >> $@
 	@echo "Inherits=hicolor" >> $@
+	@echo "FollowsColorScheme=true" >> $0
 	@echo "Directories=" >> $@
 
 clean:
